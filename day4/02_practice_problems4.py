@@ -1,10 +1,10 @@
 import random 
 #---Random heads or tails---
-# random_head_or_tail = random.randint(1,2)
-# if random_head_or_tail == 1:
-#     print("Heads")
-# else:
-#     print("tails")
+random_head_or_tail = random.randint(1,2)
+if random_head_or_tail == 1:
+    print("Heads")
+else:
+    print("tails")
 
 # ---Name Shuffle game--- 
 friends =["Alice", "Bob", "Charlie", "David", "Emanuel"]
